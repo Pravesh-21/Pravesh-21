@@ -123,7 +123,11 @@ org: "BeRamDrones"
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pravesh-21/Pravesh-21/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img
+    src="https://Pravesh-21.github.io/Pravesh-21/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
+    width="100%"
+  />
 </div>
 
 > This animated snake "eats" your contribution graph and updates daily via GitHub Actions — setup is below.
