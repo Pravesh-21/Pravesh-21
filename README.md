@@ -2,6 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hey,%20I'm%20Pravesh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
+<img src="assets/profile.png" width="150" style="border-radius: 50%; margin-top: -70px; border: 4px solid white;" alt="Pravesh Shrivastava"/>
+
+<br/>
+
+<img width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="waving hand"/>
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+Ramdeobaba+University;BS+Data+Science+%40+IIT+Madras;Building+ML+%2B+Full-Stack+Systems;Turning+Real-World+Problems+into+Code" alt="Typing SVG" />
 </a>
@@ -26,7 +32,7 @@
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&animation=twinkling" width="100%"/>
 
 ## 👨‍💻 About Me
 
@@ -44,7 +50,7 @@ currently_building: "Multi-cancer detection system, UAV mission control (Project
 org: "BeRamDrones"
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&animation=twinkling" width="100%"/>
 
 ## 🚀 Tech Stack
 
@@ -80,7 +86,7 @@ org: "BeRamDrones"
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&animation=twinkling" width="100%"/>
 
 ## 📌 Featured Projects
 
@@ -104,7 +110,15 @@ org: "BeRamDrones"
 
 > 💡 Swap the `repo=` values above for any repos you want pinned — pinned-repo cards render live from your actual GitHub data, so they always stay current.
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&animation=twinkling" width="100%"/>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pravesh-21&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&animation=twinkling" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -123,7 +137,7 @@ org: "BeRamDrones"
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&animation=twinkling" width="100%"/>
 
 ## 🐍 Contribution Graph
 
