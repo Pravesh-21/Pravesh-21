@@ -1,527 +1,144 @@
-<!-- ========================================================= -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hey,%20I'm%20Pravesh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+Ramdeobaba+University;BS+Data+Science+%40+IIT+Madras;Building+ML+%2B+Full-Stack+Systems;Turning+Real-World+Problems+into+Code" alt="Typing SVG" />
+</a>
 
-<!--                       HERO SECTION                        -->
+<br/>
 
-<!-- ========================================================= -->
+<a href="https://www.linkedin.com/in/pravesh-shrivastava-327888371/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/pravesh__21/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://dribbble.com/pravesh-shrivastava" target="_blank">
+  <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/33138624/pravesh-shrivastava" target="_blank">
+  <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+<a href="https://github.com/BeRamDrones" target="_blank">
+  <img src="https://img.shields.io/badge/Org-BeRamDrones-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-::: {align="center"}
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=PRAVESH%20SHRIVASTAVA&fontSize=48&fontAlignY=38&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Full-Stack%20Development&descAlignY=58&animation=fadeIn" width="100%"/>{=html}
+</div>
 
-<br>{=html}
+<br/>
 
-<a href="https://git.io/typing-svg">{=html}
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Real-World+Problem+Solver+%F0%9F%92%A1;Turning+Ideas+Into+Impactful+Solutions+%F0%9F%9A%80" alt="Typing SVG"/>{=html}
-</a>{=html}
+## 👨‍💻 About Me
 
-<br>{=html}<br>{=html}
+```yaml
+education:
+  - degree: "B.Tech in Computer Science"
+    school: "Ramdeobaba University, Nagpur"
+    cgpa: "8.6 / 10"
+  - degree: "BS in Data Science & Applications"
+    school: "IIT Madras"
+    cgpa: "7.0 / 10"
 
-<a href="https://github.com/Pravesh-21">{=html}
-<img src="https://komarev.com/ghpvc/?username=Pravesh-21&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>{=html}
-</a>{=html}
+focus: ["Machine Learning", "Data Science", "Full-Stack Development"]
+currently_building: "Multi-cancer detection system, UAV mission control (Project Jatayu), Land Acquisition Management System"
+org: "BeRamDrones"
+```
 
-<a href="https://github.com/Pravesh-21?tab=followers">{=html}
-<img src="https://img.shields.io/github/followers/Pravesh-21?label=Followers&style=flat-square&color=0e75b6" alt="Followers"/>{=html}
-</a>{=html}
+<br/>
 
-<a href="https://github.com/Pravesh-21?tab=repositories">{=html}
-<img src="https://img.shields.io/github/stars/Pravesh-21?label=Stars&style=flat-square&color=yellow" alt="Stars"/>{=html}
-</a>{=html}
-:::
+## 🚀 Tech Stack
 
-👋 About Me
+<div align="center">
 
-::: {align="center"}
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c" />
 
-🚀 Aspiring Data Scientist • AI/ML Enthusiast • Full-Stack Developer
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,tailwind,sass,bootstrap,nextjs" />
 
-:::
+**Backend & APIs**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,kafka,graphql" />
 
-class Pravesh:
+**Data / ML / AI**
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,hadoop" />
 
-    def __init__(self):
-        self.name = "Pravesh Shrivastava"
-        self.role = "Aspiring Data Scientist"
-        self.location = "India"
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite" />
 
-        self.interests = [
-            "Data Science",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision",
-            "Full-Stack Development",
-            "Real-World Problem Solving"
-        ]
+**Cloud & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,firebase" />
 
-        self.currently_learning = [
-            "Machine Learning",
-            "Deep Learning",
-            "Data Analytics",
-            "Computer Vision",
-            "AI Applications",
-            "Backend Development"
-        ]
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,postman,git,linux,arduino" />
 
-    def mission(self):
-        return "Turn real-world problems into intelligent and practical solutions."
+</div>
 
-::: {align="center"}
+<br/>
 
-💡 I don't just want to write code --- I want to build technology
-that solves meaningful problems.
-:::
+## 📌 Featured Projects
 
-🧠 What I Do
+<div align="center">
 
-<table align="center">
+<a href="https://github.com/Pravesh-21/Cancer-Detection-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pravesh-21&repo=Cancer-Detection-System&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Pravesh-21/Land_Aquisition_Management_System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pravesh-21&repo=Land_Aquisition_Management_System&theme=tokyonight&hide_border=true" />
+</a>
+<br/>
+<a href="https://github.com/Pravesh-21/plant-disease-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pravesh-21&repo=plant-disease-detection&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Pravesh-21/IndianSkatingAcademy">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pravesh-21&repo=IndianSkatingAcademy&theme=tokyonight&hide_border=true" />
+</a>
 
-<tr>
+</div>
 
-<td width="50%" valign="top">
+> 💡 Swap the `repo=` values above for any repos you want pinned — pinned-repo cards render live from your actual GitHub data, so they always stay current.
 
-<h3 align="center">
+<br/>
 
-📊 Data Science
+## 📊 GitHub Stats
 
-</h3>
+<div align="center">
 
-Data Analysis
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pravesh-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravesh-21&layout=compact&theme=tokyonight&hide_border=true" />
 
-Data Visualization
+<br/>
 
-Statistical Analysis
+<img src="https://streak-stats.demolab.com?user=Pravesh-21&theme=tokyonight&hide_border=true" />
 
-Feature Engineering
+<br/>
 
-Machine Learning
+<img src="https://github-profile-trophy.vercel.app/?username=Pravesh-21&theme=tokyonight&no-frame=true&row=1&column=6" />
 
-Predictive Modeling
+</div>
 
-Model Evaluation
+<br/>
 
-Data-driven Solutions
+## 🐍 Contribution Graph
 
-</td>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pravesh-21/Pravesh-21/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
-<td width="50%" valign="top">
+> This animated snake "eats" your contribution graph and updates daily via GitHub Actions — setup is below.
 
-<h3 align="center">
+<br/>
 
-🤖 AI / ML
+<div align="center">
 
-</h3>
+![Profile Views](https://komarev.com/ghpvc/?username=Pravesh-21&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS)
 
-Deep Learning
+</div>
 
-Computer Vision
-
-Image Classification
-
-Object Detection
-
-Disease Detection
-
-AI-powered Applications
-
-Model Training
-
-Model Deployment
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3 align="center">
-
-💻 Full-Stack Development
-
-</h3>
-
-React
-
-Next.js
-
-Vue.js
-
-Node.js
-
-Express.js
-
-Django
-
-Flask / FastAPI
-
-REST APIs
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3 align="center">
-
-☁️ Engineering
-
-</h3>
-
-PostgreSQL
-
-MySQL
-
-MongoDB
-
-Redis
-
-Docker
-
-Git & GitHub
-
-AWS
-
-Linux
-
-</td>
-
-</tr>
-
-</table>
-
-🔬 Currently Exploring
-
-::: {align="center"}
-
-                 ┌──────────────────┐
-                 │    DATA          │
-                 │    SCIENCE       │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │   MACHINE        │
-                 │   LEARNING       │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │   DEEP           │
-                 │   LEARNING       │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │   COMPUTER       │
-                 │   VISION         │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │   AI-POWERED     │
-                 │   APPLICATIONS   │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │   REAL-WORLD     │
-                 │     IMPACT       │
-                 └──────────────────┘
-
-🚀 My goal is simple:
-
-Data + AI + Software Engineering → Real-World Solutions
-:::
-
-🚀 Featured Projects
-
-<table align="center">
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>
-
-🌱 Plant Disease Detection
-
-</h3>
-
-AI-powered plant disease detection system using computer vision and
-machine learning.
-
-Focus: Computer Vision Deep Learning Classification
-
-<br>{=html}
-
-<a href="https://github.com/Pravesh-21/plant-disease-detection">{=html}
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>{=html}
-</a>{=html}
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>
-
-🧬 Cancer Detection System
-
-</h3>
-
-AI-based cancer detection architecture using a parent model with
-specialized child models.
-
-Focus: AI/ML Deep Learning Medical Imaging
-
-<br>{=html}
-
-<a href="https://github.com/Pravesh-21/Cancer-Detection-System">{=html}
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>{=html}
-</a>{=html}
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>
-
-🏛️ Land Acquisition Management System
-
-</h3>
-
-Full-stack platform designed around land acquisition workflows with
-security, role-based access and administrative functionality.
-
-Focus: Full-Stack RBAC Security Web Systems
-
-<br>{=html}
-
-<a href="https://github.com/Pravesh-21/Land_Aquisition_Management_System">{=html}
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>{=html}
-</a>{=html}
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>
-
-💇 Salon Website
-
-</h3>
-
-Modern responsive website project focused on frontend development and
-user experience.
-
-Focus: Frontend UI/UX Web Development
-
-<br>{=html}
-
-<a href="https://github.com/Pravesh-21/La-Papel">{=html}
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>{=html}
-</a>{=html}
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>
-
-⛸️ Indian Skating Academy
-
-</h3>
-
-Web project created for a skating academy with a focus on responsive
-design and frontend development.
-
-Focus: Web Development UI Frontend
-
-<br>{=html}
-
-<a href="https://github.com/Pravesh-21/IndianSkatingAcademy">{=html}
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>{=html}
-</a>{=html}
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>
-
-📈 More Coming Soon...
-
-</h3>
-
-Currently exploring and building projects around:
-
-Data Science AI / ML Computer Vision Analytics
-Full-Stack Development Automation
-
-</td>
-
-</tr>
-
-</table>
-
-🛠️ Technologies & Tools
-
-👨‍💻 Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,java,js,ts,html,css"/>{=html}
-
-</p>
-
-📊 Data Science & AI
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv"/>{=html}
-<br>{=html}<br>{=html}
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>{=html}
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>{=html}
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>{=html}
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>{=html}
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>{=html}
-
-</p>
-
-🌐 Web Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,django,flask,tailwind"/>{=html}
-
-</p>
-
-🗄️ Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite"/>{=html}
-
-</p>
-
-☁️ DevOps & Cloud
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux"/>{=html}
-
-</p>
-
-⚡ My Development Mindset
-
-::: {align="center"}
-
-       PROBLEM
-          │
-          ▼
-     UNDERSTAND
-          │
-          ▼
-       ANALYZE
-          │
-          ▼
-       DESIGN
-          │
-          ▼
-        BUILD
-          │
-          ▼
-        TEST
-          │
-          ▼
-       DEPLOY
-          │
-          ▼
-       IMPROVE
-          │
-          └───────────────► REPEAT 🔁
-
-:::
-
-📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Pravesh-21&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Pravesh's GitHub Stats"/>{=html}
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravesh-21&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>{=html}
-
-</p>
-
-<br>{=html}
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Pravesh-21&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>{=html}
-
-</p>
-
-📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pravesh-21&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity"/>{=html}
-
-</p>
-
-🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pravesh-21&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>{=html}
-
-</p>
-
-🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Pravesh-21/Pravesh-21/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>{=html}
-
-</p>
-
-🎯 2026 Goals
-
-::: {align="center"}
-Goal                                     Status
-
-📊 Strengthen Data Science               🔄 Learning
-🤖 Build Advanced ML Projects            🔄 In Progress
-👁️ Explore Computer Vision               🔄 Building
-☁️ Improve Cloud & Deployment Skills     🔄 Learning
-💻 Build Production-Ready Applications   🔄 Building
-🌍 Solve More Real-World Problems        🚀 Ongoing
-:::
-
-🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/pravesh-shrivastava-327888371/">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>{=html}
-</a>{=html}
-
-<a href="https://github.com/Pravesh-21">{=html}
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>{=html}
-</a>{=html}
-
-<a href="https://www.instagram.com/pravesh__21/">{=html}
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>{=html}
-</a>{=html}
-
-</p>
-
-::: {align="center"}
-
-💭 "Build. Learn. Solve. Repeat."
-
-<br>{=html}
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>{=html}
-:::
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:667eea&height=120&section=footer" width="100%"/>
