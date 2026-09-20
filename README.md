@@ -26,9 +26,6 @@
 <a href="https://stackoverflow.com/users/33138624/pravesh-shrivastava" target="_blank">
   <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>
-<a href="https://github.com/BeRamDrones" target="_blank">
-  <img src="https://img.shields.io/badge/Org-BeRamDrones-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 </div>
 
@@ -58,31 +55,31 @@ org: "BeRamDrones"
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java" />
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,tailwind,sass,bootstrap,nextjs" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
 
 **Backend & APIs**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,kafka,graphql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
 
 **Data / ML / AI**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,pandas,hadoop" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas" />
 
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,sqlite" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 
 **Cloud & DevOps**
 <br/>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,firebase" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=figma,postman,git,linux,arduino" />
+<img src="https://skillicons.dev/icons?i=figma,postman,git" />
 
 </div>
 
