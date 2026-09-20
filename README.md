@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Hey,%20I'm%20Pravesh%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="assets/profile.png" width="150" style="border-radius: 50%; margin-top: -70px; border: 4px solid white;" alt="Pravesh Shrivastava"/>
-
-<br/>
-
 <img width="35" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="waving hand"/>
 
 <a href="https://git.io/typing-svg">
@@ -90,17 +86,17 @@ org: "BeRamDrones"
 <div align="center">
 
 <a href="https://github.com/Pravesh-21/Cancer-Detection-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pravesh-21&repo=Cancer-Detection-System&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Pravesh-21&repo=Cancer-Detection-System&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Pravesh-21/Land_Aquisition_Management_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pravesh-21&repo=Land_Aquisition_Management_System&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Pravesh-21&repo=Land_Aquisition_Management_System&theme=tokyonight&hide_border=true" />
 </a>
 <br/>
 <a href="https://github.com/Pravesh-21/plant-disease-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pravesh-21&repo=plant-disease-detection&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Pravesh-21&repo=plant-disease-detection&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Pravesh-21/IndianSkatingAcademy">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pravesh-21&repo=IndianSkatingAcademy&theme=tokyonight&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Pravesh-21&repo=IndianSkatingAcademy&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -109,28 +105,16 @@ org: "BeRamDrones"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&animation=twinkling" width="100%"/>
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pravesh-21&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&animation=twinkling" width="100%"/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pravesh-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravesh-21&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Pravesh-21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pravesh-21&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=Pravesh-21&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Pravesh-21&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
